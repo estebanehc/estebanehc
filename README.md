@@ -25,7 +25,7 @@ With over **11 years of experience**, I specialize in building **scalable backen
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,csharp,python,fastapi,react,ts,tailwind,postgres,mongodb,firebase,docker,gcp,git,github,unity" />
+  <img src="https://skillicons.dev/icons?i=dotnet,python,fastapi,react,ts,tailwind,postgres,mongodb,firebase,docker,gcp,git,github,unity" />
 </p>
 
 ---
